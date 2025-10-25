@@ -35,6 +35,8 @@ It includes KPI metrics, interactive charts, and AI-generated business insights 
 ├── Starbucks_AI.py # OpenAI insights logic \
 └── .streamlit/ \
 └── secrets.toml # (not committed) stores API keys \
+└── config.toml # setting the theme \
+
 
 ---
 
