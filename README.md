@@ -28,8 +28,8 @@ It includes KPI metrics, interactive charts, and AI-generated business insights 
 ## 🧩 Project Structure
 
 📁 Starbucks_App/
-├── Starbucks_App.py # Main Streamlit dashboard
-├── Starbucks_Plots.py # Plotly visualization components
+├── Starbucks_App.py # Main Streamlit dashboard\n
+├── Starbucks_Plots.py # Plotly visualization components\n
 ├── Starbucks_Faker.py # Synthetic data generator
 ├── Starbucks_AI.py # OpenAI insights logic
 └── .streamlit/
