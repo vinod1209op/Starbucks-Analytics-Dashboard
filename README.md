@@ -38,7 +38,7 @@ It includes KPI metrics, interactive charts, and AI-generated business insights 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
 
-*```bash
+bash
 git clone https://github.com/<your-username>/Starbucks-Dashboard.git
 cd Starbucks-Dashboard
 pip install -r requirements.txt
