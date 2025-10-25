@@ -1,4 +1,4 @@
-# ☕ Brewed Insights — Starbucks Analytics Dashboard
+# ☕ [Brewed Insights — Starbucks Analytics Dashboard](https://starbucks-analytics-dashboard-glsebjytxrkbrsgf5enggk.streamlit.app/)
 
 **Brewed Insights** is an interactive **Streamlit dashboard** for visualizing and exploring Starbucks-style retail data.  
 It includes KPI metrics, interactive charts, and AI-generated business insights powered by OpenAI GPT.
@@ -21,6 +21,7 @@ It includes KPI metrics, interactive charts, and AI-generated business insights 
 
 ## 🧠 Demo Preview
 
+Streamlit Cloud Dashboard: https://starbucks-analytics-dashboard-glsebjytxrkbrsgf5enggk.streamlit.app/
 > <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/cd3dae1f-791c-4e2a-a145-ed4ef3bfd248" />
 
 
