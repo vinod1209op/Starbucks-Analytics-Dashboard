@@ -22,7 +22,8 @@ It includes KPI metrics, interactive charts, and AI-generated business insights 
 
 ## 🧠 Demo Preview
 
-> *(Add a screenshot here once deployed or locally captured)*
+> <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/cd3dae1f-791c-4e2a-a145-ed4ef3bfd248" />
+
 
 ---
 
