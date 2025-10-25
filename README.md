@@ -24,27 +24,30 @@ It includes KPI metrics, interactive charts, and AI-generated business insights 
 
 > *(Add a screenshot here once deployed or locally captured)*
 
+---
 
 ## 🧩 Project Structure
 
-📁 Starbucks_App/
+📁 Starbucks_App/ \
 ├── Starbucks_App.py # Main Streamlit dashboard \
 ├── Starbucks_Plots.py # Plotly visualization components \
 ├── Starbucks_Faker.py # Synthetic data generator \
-├── Starbucks_AI.py # OpenAI insights logic
-└── .streamlit/
-└── secrets.toml # (not committed) stores API keys
+├── Starbucks_AI.py # OpenAI insights logic \
+└── .streamlit/ \
+└── secrets.toml # (not committed) stores API keys \
+
+---
 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
 
-bash
-git clone https://github.com/<your-username>/Starbucks-Dashboard.git
-cd Starbucks-Dashboard
-pip install -r requirements.txt
-streamlit run Starbucks_App.py
+'''bash \
+git clone https://github.com/<your-username>/Starbucks-Dashboard.git \
+cd Starbucks-Dashboard \
+pip install -r requirements.txt \
+streamlit run Starbucks_App.py \
 
-
+---
 
 ## 🧰 Tech Stack
 
@@ -56,6 +59,7 @@ streamlit run Starbucks_App.py
 | AI Insights | OpenAI GPT                  |
 | Styling     | Custom CSS (coffee palette) |
 
+---
 
 ## 📝 License
 
