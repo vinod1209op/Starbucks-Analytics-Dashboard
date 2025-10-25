@@ -12,9 +12,8 @@ It includes KPI metrics, interactive charts, and AI-generated business insights 
 - 🌍 **Visual Analytics**:
   - Monthly Sales Trends  
   - Channel Mix Over Time  
-  - Daypart × Weekday Heatmap  
-  - Category Revenue Treemap  
-  - Correlation & RFM Segmentation (optional)
+  - Daypart × Weekday Heatmap
+  - Correlation Map
 - 🤖 **AI Insights** — GPT-powered summary of key trends and recommendations
 - ☕ **Cohesive Coffee-Themed UI** — Latte-inspired color palette for a warm, professional feel
 
